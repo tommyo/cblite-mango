@@ -1,0 +1,26 @@
+PODS:
+  - CBLiteMango (0.1.0):
+    - CouchbaseLite-Swift (~> 2.0.0)
+  - CouchbaseLite-Swift (2.0.3)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - CBLiteMango (from `../`)
+  - CouchbaseLite-Swift (~> 2.0.0)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+EXTERNAL SOURCES:
+  CBLiteMango:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CBLiteMango: def4ecadae49d8a0ecfa977c17172b1b98e6ff9c
+  CouchbaseLite-Swift: 4b826ae66133c7438b6016e2f6163a64d29d890a
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 251a62892bf38524f5b2e05537454c4f6dece1b6
+
+COCOAPODS: 1.4.0

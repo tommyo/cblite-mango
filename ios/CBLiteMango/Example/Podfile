@@ -1,0 +1,8 @@
+use_frameworks!
+target 'CBLiteMango_Tests' do
+  pod 'CBLiteMango', :path => '../'
+  
+  pod 'Quick', '~> 1.2.0'
+  pod 'Nimble', '~> 7.0.2'
+  pod 'CouchbaseLite-Swift', '~> 2.0.0'
+end
